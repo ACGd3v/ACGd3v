@@ -10,16 +10,14 @@ I am a passionate gamer who loves exploring new worlds and challenges. Whether i
 
 Feel free to chat with me about the latest game releases or share your recommendations!
 
-## 📚 English
-I have a deep appreciation for the English language. From reading classic literature to writing my own stories, I find joy in the nuances and beauty of English. 
-
-If you're a fellow book lover or a writer, I'd love to connect and discuss our favorite reads or share writing tips.
-
 ## 💻 Technology
 Technology is my playground. I enjoy staying updated with the latest trends and innovations in tech. My interests range from software development to exploring new gadgets and tech solutions. Some of my favorite areas in tech include:
 - Web Development
 - Artificial Intelligence
 - Data Analytics
+
+## 📚 English
+I have a deep appreciation for the English language. From writing my own stories to teaching it, I really enjoy what being able to use this language offers.
 
 You can find some of my projects and contributions in these areas right here on my GitHub. I'm always open to collaboration, so if you have an interesting project, let's connect!
 
